@@ -1,0 +1,881 @@
+{
+    "produtos": [
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Frutas",
+        "nome": "Maçãs",
+        "faixa_de_preco": [1.0, 2.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Frutas",
+        "nome": "Bananas",
+        "faixa_de_preco": [0.5, 1.2]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Frutas",
+        "nome": "Uvas",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Frutas",
+        "nome": "Laranjas",
+        "faixa_de_preco": [1.2, 2.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Frutas",
+        "nome": "Morangos",
+        "faixa_de_preco": [2.5, 4.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Vegetais",
+        "nome": "Alface",
+        "faixa_de_preco": [1.0, 2.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Vegetais",
+        "nome": "Tomates",
+        "faixa_de_preco": [1.2, 2.2]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Vegetais",
+        "nome": "Cenouras",
+        "faixa_de_preco": [0.8, 1.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Vegetais",
+        "nome": "Brócolis",
+        "faixa_de_preco": [1.5, 2.8]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Vegetais",
+        "nome": "Abobrinha",
+        "faixa_de_preco": [1.0, 2.2]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Carnes",
+        "nome": "Carne Moída",
+        "faixa_de_preco": [10.0, 15.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Carnes",
+        "nome": "Frango",
+        "faixa_de_preco": [8.0, 12.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Carnes",
+        "nome": "Peixe",
+        "faixa_de_preco": [12.0, 18.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Carnes",
+        "nome": "Costelas de Porco",
+        "faixa_de_preco": [9.0, 14.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Carnes",
+        "nome": "Carne de Porco",
+        "faixa_de_preco": [8.5, 13.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Laticínios",
+        "nome": "Leite",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Laticínios",
+        "nome": "Queijo",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Laticínios",
+        "nome": "Iogurte",
+        "faixa_de_preco": [2.5, 4.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Laticínios",
+        "nome": "Manteiga",
+        "faixa_de_preco": [3.5, 6.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Laticínios",
+        "nome": "Creme de Leite",
+        "faixa_de_preco": [2.8, 4.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Grãos e Cereais",
+        "nome": "Arroz Branco",
+        "faixa_de_preco": [2.0, 3.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Grãos e Cereais",
+        "nome": "Massas",
+        "faixa_de_preco": [1.5, 2.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Grãos e Cereais",
+        "nome": "Aveia",
+        "faixa_de_preco": [3.0, 4.0]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Grãos e Cereais",
+        "nome": "Cereais Matinais",
+        "faixa_de_preco": [4.0, 5.5]
+      },
+      {
+        "categoria": "Alimentos",
+        "subcategoria": "Grãos e Cereais",
+        "nome": "Farinha de Trigo",
+        "faixa_de_preco": [2.2, 3.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Refrigerantes",
+        "nome": "Coca-Cola",
+        "faixa_de_preco": [4.0, 5.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Refrigerantes",
+        "nome": "Pepsi",
+        "faixa_de_preco": [3.5, 4.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Refrigerantes",
+        "nome": "Guaraná Antarctica",
+        "faixa_de_preco": [3.8, 4.8]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Refrigerantes",
+        "nome": "Sprite",
+        "faixa_de_preco": [3.5, 4.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Refrigerantes",
+        "nome": "Fanta",
+        "faixa_de_preco": [3.5, 4.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Cervejas",
+        "nome": "Skol",
+        "faixa_de_preco": [2.5, 3.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Cervejas",
+        "nome": "Brahma",
+        "faixa_de_preco": [2.5, 3.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Cervejas",
+        "nome": "Heineken",
+        "faixa_de_preco": [3.0, 4.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Cervejas",
+        "nome": "Stella Artois",
+        "faixa_de_preco": [3.0, 4.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Cervejas",
+        "nome": "Amstel",
+        "faixa_de_preco": [2.8, 3.8]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Vinhos",
+        "nome": "Vinho Tinto",
+        "faixa_de_preco": [12.0, 20.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Vinhos",
+        "nome": "Vinho Branco",
+        "faixa_de_preco": [10.0, 18.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Vinhos",
+        "nome": "Vinho Rosé",
+        "faixa_de_preco": [11.0, 19.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Vinhos",
+        "nome": "Vinho Espumante",
+        "faixa_de_preco": [15.0, 25.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Vinhos",
+        "nome": "Vinho do Porto",
+        "faixa_de_preco": [20.0, 30.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Destilados",
+        "nome": "Whisky",
+        "faixa_de_preco": [25.0, 45.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Destilados",
+        "nome": "Vodka",
+        "faixa_de_preco": [20.0, 35.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Destilados",
+        "nome": "Rum",
+        "faixa_de_preco": [18.0, 30.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Destilados",
+        "nome": "Tequila",
+        "faixa_de_preco": [20.0, 40.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Destilados",
+        "nome": "Gin",
+        "faixa_de_preco": [25.0, 45.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Sucos",
+        "nome": "Suco de Laranja",
+        "faixa_de_preco": [2.5, 4.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Sucos",
+        "nome": "Suco de Maçã",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Sucos",
+        "nome": "Suco de Uva",
+        "faixa_de_preco": [2.2, 4.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Sucos",
+        "nome": "Suco de Abacaxi",
+        "faixa_de_preco": [2.2, 4.0]
+      },
+      {
+        "categoria": "Bebidas",
+        "subcategoria": "Sucos",
+        "nome": "Suco de Limão",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Bucal",
+        "nome": "Pasta de Dentes",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Bucal",
+        "nome": "Escova de Dentes",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Bucal",
+        "nome": "Enxaguante Bucal",
+        "faixa_de_preco": [3.5, 6.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Bucal",
+        "nome": "Fio Dental",
+        "faixa_de_preco": [2.0, 3.5]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Bucal",
+        "nome": "Escova de Língua",
+        "faixa_de_preco": [1.5, 3.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Cuidados com a Pele",
+        "nome": "Sabonete",
+        "faixa_de_preco": [2.0, 4.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Cuidados com a Pele",
+        "nome": "Shampoo",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Cuidados com a Pele",
+        "nome": "Condicionador",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Cuidados com a Pele",
+        "nome": "Loção Hidratante",
+        "faixa_de_preco": [4.0, 7.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Cuidados com a Pele",
+        "nome": "Protetor Solar",
+        "faixa_de_preco": [5.0, 10.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Feminina",
+        "nome": "Absorventes",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Feminina",
+        "nome": "Tampões",
+        "faixa_de_preco": [3.5, 6.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Feminina",
+        "nome": "Protetores Diários",
+        "faixa_de_preco": [2.0, 4.0]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Feminina",
+        "nome": "Sabonetes Íntimos",
+        "faixa_de_preco": [2.5, 4.5]
+      },
+      {
+        "categoria": "Produtos de Higiene Pessoal",
+        "subcategoria": "Higiene Feminina",
+        "nome": "Creme Depilatório",
+        "faixa_de_preco": [4.0, 6.5]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza Geral",
+        "nome": "Detergente",
+        "faixa_de_preco": [2.5, 4.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza Geral",
+        "nome": "Sabão em Pó",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza Geral",
+        "nome": "Desinfetante",
+        "faixa_de_preco": [2.5, 4.5]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza Geral",
+        "nome": "Limpador Multiuso",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza Geral",
+        "nome": "Água Sanitária",
+        "faixa_de_preco": [2.0, 4.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza de Cozinha",
+        "nome": "Esponja de Cozinha",
+        "faixa_de_preco": [1.0, 2.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza de Cozinha",
+        "nome": "Desengordurante",
+        "faixa_de_preco": [2.0, 4.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza de Cozinha",
+        "nome": "Pano de Prato",
+        "faixa_de_preco": [1.0, 2.5]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza de Cozinha",
+        "nome": "Limpador de Forno",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Produtos de Limpeza de Cozinha",
+        "nome": "Papel Toalha",
+        "faixa_de_preco": [2.5, 4.5]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Lavanderia",
+        "nome": "Amaciante de Roupas",
+        "faixa_de_preco": [3.0, 5.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Lavanderia",
+        "nome": "Alvejante",
+        "faixa_de_preco": [2.5, 4.0]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Lavanderia",
+        "nome": "Sabão Líquido para Roupas",
+        "faixa_de_preco": [3.5, 5.5]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Lavanderia",
+        "nome": "Tira Manchas",
+        "faixa_de_preco": [2.8, 4.8]
+      },
+      {
+        "categoria": "Produtos de Limpeza",
+        "subcategoria": "Lavanderia",
+        "nome": "Varal de Roupa",
+        "faixa_de_preco": [20.0, 35.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Smartphones",
+        "nome": "iPhone",
+        "faixa_de_preco": [1000.0, 1500.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Smartphones",
+        "nome": "Samsung Galaxy",
+        "faixa_de_preco": [900.0, 1300.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Smartphones",
+        "nome": "Google Pixel",
+        "faixa_de_preco": [800.0, 1200.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Smartphones",
+        "nome": "OnePlus",
+        "faixa_de_preco": [700.0, 1100.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Smartphones",
+        "nome": "Xiaomi Mi",
+        "faixa_de_preco": [600.0, 1000.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Laptops",
+        "nome": "MacBook",
+        "faixa_de_preco": [1500.0, 2500.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Laptops",
+        "nome": "Dell XPS",
+        "faixa_de_preco": [1200.0, 2000.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Laptops",
+        "nome": "HP Spectre",
+        "faixa_de_preco": [1100.0, 1900.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Laptops",
+        "nome": "Lenovo ThinkPad",
+        "faixa_de_preco": [1000.0, 1800.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Laptops",
+        "nome": "Asus ZenBook",
+        "faixa_de_preco": [900.0, 1700.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Tablets",
+        "nome": "iPad",
+        "faixa_de_preco": [400.0, 800.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Tablets",
+        "nome": "Samsung Galaxy Tab",
+        "faixa_de_preco": [350.0, 700.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Tablets",
+        "nome": "Microsoft Surface",
+        "faixa_de_preco": [450.0, 900.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Tablets",
+        "nome": "Lenovo Tab",
+        "faixa_de_preco": [300.0, 600.0]
+      },
+      {
+        "categoria": "Eletrônicos",
+        "subcategoria": "Tablets",
+        "nome": "Huawei MediaPad",
+        "faixa_de_preco": [400.0, 800.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Masculinas",
+        "nome": "Camiseta",
+        "faixa_de_preco": [15.0, 30.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Masculinas",
+        "nome": "Calça Jeans",
+        "faixa_de_preco": [25.0, 50.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Masculinas",
+        "nome": "Blazer",
+        "faixa_de_preco": [40.0, 80.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Masculinas",
+        "nome": "Sapatos Sociais",
+        "faixa_de_preco": [30.0, 60.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Masculinas",
+        "nome": "Jaqueta de Couro",
+        "faixa_de_preco": [70.0, 140.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Femininas",
+        "nome": "Vestido",
+        "faixa_de_preco": [20.0, 40.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Femininas",
+        "nome": "Saia",
+        "faixa_de_preco": [15.0, 30.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Femininas",
+        "nome": "Blusa",
+        "faixa_de_preco": [10.0, 25.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Femininas",
+        "nome": "Sapatos Femininos",
+        "faixa_de_preco": [20.0, 45.0]
+      },
+      {
+        "categoria": "Roupas e Calçados",
+        "subcategoria": "Roupas Femininas",
+        "nome": "Casaco de Inverno",
+        "faixa_de_preco": [40.0, 80.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Vitaminas",
+        "nome": "Vitamina C",
+        "faixa_de_preco": [10.0, 20.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Vitaminas",
+        "nome": "Vitamina D",
+        "faixa_de_preco": [15.0, 25.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Vitaminas",
+        "nome": "Vitamina B12",
+        "faixa_de_preco": [12.0, 22.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Vitaminas",
+        "nome": "Ácido Fólico",
+        "faixa_de_preco": [8.0, 18.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Vitaminas",
+        "nome": "Vitamina E",
+        "faixa_de_preco": [9.0, 19.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Antissépticos",
+        "nome": "Álcool em Gel",
+        "faixa_de_preco": [5.0, 10.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Antissépticos",
+        "nome": "Solução de Iodo",
+        "faixa_de_preco": [6.0, 12.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Antissépticos",
+        "nome": "Peróxido de Hidrogênio",
+        "faixa_de_preco": [4.0, 8.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Antissépticos",
+        "nome": "Clorexidina",
+        "faixa_de_preco": [5.0, 10.0]
+      },
+      {
+        "categoria": "Produtos Farmacêuticos",
+        "subcategoria": "Antissépticos",
+        "nome": "Pomada Antisséptica",
+        "faixa_de_preco": [6.0, 12.0]
+      },
+      {
+        "categoria": "Brinquedos e Jogos para o Lar",
+        "subcategoria": "Brinquedos Infantis",
+        "nome": "Bonecas",
+        "faixa_de_preco": [10.0, 20.0]
+      },
+      {
+        "categoria": "Brinquedos e Jogos para o Lar",
+        "subcategoria": "Brinquedos Infantis",
+        "nome": "Carrinhos",
+        "faixa_de_preco": [8.0, 16.0]
+      },
+      {
+        "categoria": "Brinquedos e Jogos para o Lar",
+        "subcategoria": "Brinquedos Infantis",
+        "nome": "Quebra-Cabeças",
+        "faixa_de_preco": [5.0, 12.0]
+      },
+      {
+        "categoria": "Brinquedos e Jogos para o Lar",
+        "subcategoria": "Brinquedos Infantis",
+        "nome": "Bolas",
+        "faixa_de_preco": [4.0, 10.0]
+      },
+      {
+        "categoria": "Brinquedos e Jogos para o Lar",
+        "subcategoria": "Brinquedos Infantis",
+        "nome": "Blocos de Montar",
+        "faixa_de_preco": [7.0, 15.0]
+      },
+      {
+        "categoria": "Beleza e Cuidados Pessoais",
+        "subcategoria": "Maquiagem",
+        "nome": "Batom",
+        "faixa_de_preco": [8.0, 15.0]
+      },
+      {
+        "categoria": "Beleza e Cuidados Pessoais",
+        "subcategoria": "Maquiagem",
+        "nome": "Base",
+        "faixa_de_preco": [10.0, 18.0]
+      },
+      {
+        "categoria": "Beleza e Cuidados Pessoais",
+        "subcategoria": "Maquiagem",
+        "nome": "Máscara de Cílios",
+        "faixa_de_preco": [7.0, 14.0]
+      },
+      {
+        "categoria": "Beleza e Cuidados Pessoais",
+        "subcategoria": "Maquiagem",
+        "nome": "Sombra para os Olhos",
+        "faixa_de_preco": [6.0, 12.0]
+      },
+      {
+        "categoria": "Beleza e Cuidados Pessoais",
+        "subcategoria": "Maquiagem",
+        "nome": "Blush",
+        "faixa_de_preco": [8.0, 15.0]
+      },
+      {
+        "categoria": "Entretenimento",
+        "subcategoria": "Livros",
+        "nome": "Romance",
+        "faixa_de_preco": [10.0, 20.0]
+      },
+      {
+        "categoria": "Entretenimento",
+        "subcategoria": "Livros",
+        "nome": "Ficção Científica",
+        "faixa_de_preco": [12.0, 22.0]
+      },
+      {
+        "categoria": "Entretenimento",
+        "subcategoria": "Livros",
+        "nome": "Mistério e Suspense",
+        "faixa_de_preco": [11.0, 21.0]
+      },
+      {
+        "categoria": "Entretenimento",
+        "subcategoria": "Livros",
+        "nome": "Fantasia",
+        "faixa_de_preco": [13.0, 23.0]
+      },
+      {
+        "categoria": "Entretenimento",
+        "subcategoria": "Livros",
+        "nome": "Autoajuda",
+        "faixa_de_preco": [9.0, 19.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Cadernos",
+        "nome": "Caderno Pautado",
+        "faixa_de_preco": [5.0, 10.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Cadernos",
+        "nome": "Caderno Sem Pauta",
+        "faixa_de_preco": [5.0, 10.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Cadernos",
+        "nome": "Caderno de Desenho",
+        "faixa_de_preco": [6.0, 12.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Canetas",
+        "nome": "Caneta Esferográfica",
+        "faixa_de_preco": [2.0, 5.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Canetas",
+        "nome": "Caneta Marcadora",
+        "faixa_de_preco": [2.5, 6.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Canetas",
+        "nome": "Caneta Gel",
+        "faixa_de_preco": [2.5, 6.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Canetas",
+        "nome": "Marcador de Texto",
+        "faixa_de_preco": [3.0, 7.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Lápis",
+        "nome": "Lápis HB",
+        "faixa_de_preco": [1.0, 3.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Lápis",
+        "nome": "Lápis de Cor",
+        "faixa_de_preco": [3.0, 7.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Lápis",
+        "nome": "Lápis de Carvão",
+        "faixa_de_preco": [2.0, 5.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Lápis",
+        "nome": "Lápis de Pastel",
+        "faixa_de_preco": [3.0, 7.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Lápis",
+        "nome": "Lápis de Grafite",
+        "faixa_de_preco": [1.0, 3.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Borrachas",
+        "nome": "Borracha de Apagar",
+        "faixa_de_preco": [0.5, 2.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Borrachas",
+        "nome": "Borracha de Desenho",
+        "faixa_de_preco": [0.5, 2.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Borrachas",
+        "nome": "Borracha Caneta",
+        "faixa_de_preco": [0.5, 2.0]
+      },
+      {
+        "categoria": "Papelaria e Material Escolar",
+        "subcategoria": "Borrachas",
+        "nome": "Borracha de Vinil",
+        "faixa_de_preco": [0.5, 2.0]
+      }
+    ]
+  }
+  

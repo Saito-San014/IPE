@@ -30,15 +30,42 @@ name = [
     "Luiz Henrique", "Dom", "Davi Miguel", "Estevão", "Breno", "Davi Luiz", "Thales", 
     "Isreal"
 ]
-idade50, mediaAlturas, pesoInferior = 0,0,0
-pessoas = []
-xPessoas = int(input("Quantidade de pessoas:"))
-for i in range(0, xPessoas):
-    pessoa = {
-        "nome": name[random.randint(0,len(name))],
-        "idade": random.randint(0,100),
-        "altura": random.uniform(1.40,2.20), 
-        "peso": random.uniform(40.0, 150.00)
-    }
-    pessoas.append(pessoa)
+somaAltura, pesoInferior, altura1020 = 0,0,0
+pessoas, pessoasIdade50, pessoasMediaAltura, pessoasPesoInferior = [], [], [], []
+autoTeste = input("Auto testar: s/n")
+if autoTeste == "s":
+    xPessoas = int(input("Quantidade de pessoas:"))
+    for i in range(0, xPessoas):
+        pessoa = {
+            "nome": name[random.randint(0,len(name)-1)],
+            "idade": random.randint(0,100),
+            "altura": random.uniform(1.40,2.20), 
+            "peso": random.uniform(40.0, 150.00)
+        }
+        pessoas.append(pessoa)
+        if pessoa["idade"] > 50:
+            pessoasIdade50.append(pessoa)
+        if pessoa["idade"] >= 10 and pessoa["idade"] <= 20:
+            pessoasMediaAltura.append(pessoa)
+            somaAltura += pessoa["altura"]
+        if pessoa["altura"] < 40:
+            pessoasPesoInferior.append(pessoa)
     print(pessoas[i])
+    print(f"Têm {len(pessoasIdade50)} com ida")
+    for pessoa in pessoasIdade50:
+        print(f"A pessoa {pessoa['nome']} têm {pessoa['idade']} anos")
+    for pessoa in pessoasMediaAltura:
+        print(f"A pessoa {pessoa['nome']} têm {pessoa['altura']:.2f} metros de altura")
+    for pessoa in pessoasPesoInferior:
+        print(f"A pessoa {pessoa['nome']} têm {pessoa['peso']:.2f}kg")
+else:
+    
+    for i in range(3):
+        peso =float(input("peso"))
+        altura =float(input("altura"))
+        idade =int(input("idade"))
+        if idade >= 10 and idade <= 20:
+            altura1020 += 1
+            somaAltura += altura
+
+    print(somaAltura/altura1020)
